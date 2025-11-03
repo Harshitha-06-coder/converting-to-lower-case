@@ -1,1 +1,6 @@
-# converting-to-lower-case
+class Solution {
+    static String toLower(String s) {
+        // code here
+        return s.toLowerCase();
+    }
+}
